@@ -1,0 +1,12 @@
+{
+    "name": "vitale_all",
+    "input": "/media/guma/Data/Exchange/Datasets/Salvatore/01_Dataset",
+    "output": "/media/guma/Data/Exchange/Datasets/Featurescoop_salvatore/dataset",
+    "source": "misc",
+    "min_scene_len": 50,
+    "frames_per_scene": 1,
+    "threshold": 50.0,
+    "noconvert": true,
+    "force": false,
+    "frames_per_second": 1
+}
