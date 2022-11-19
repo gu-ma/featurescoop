@@ -1,1 +1,0 @@
-docker run -p 5003:5003 -it --rm -v C:\Users\admin\Documents\applications\featurescoop:/scratch featurescoop:latest bash -c "(cd /scratch/featurescoop && python api.py)"
