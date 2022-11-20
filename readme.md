@@ -48,15 +48,15 @@ Batch script
 .\docker_run.bat arg1 arg2
 ```
 
- for example:
+for example:
 
- ```bash
+```bash
 .\docker_run.bat -d --restart=unless-stopped
 ```
 
 Or
 
- ```bash
+```bash
 .\docker_run.bat --rm
 ```
 
